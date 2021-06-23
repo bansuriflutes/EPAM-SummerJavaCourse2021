@@ -1,1 +1,1 @@
-# EPAM-JavaSummerCourse2021
+# EPAM-SummerJavaCourse2021
